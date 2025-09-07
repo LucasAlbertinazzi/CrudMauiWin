@@ -12,7 +12,8 @@ Trata-se de um CRUD de **Clientes**, desenvolvido em **.NET MAUI (.NET 9)** para
 - Exclusão de clientes com mensagem de confirmação.  
 - Persistência em cache (JSON) para manter os dados mesmo após fechar e reabrir o app.  
 - UI estilizada com cards compactos mostrando **Nome, Sobrenome, Idade e Endereço**.  
-- Injeção de dependência configurada.  
+- Injeção de dependência configurada.
+- Verificação dos campos.
 
 ---
 
@@ -24,7 +25,7 @@ Trata-se de um CRUD de **Clientes**, desenvolvido em **.NET MAUI (.NET 9)** para
 - Janelas separadas para inclusão/edição ✔  
 - Mensagem de confirmação para exclusão ✔  
 - Persistência em cache JSON (opcional do teste) ✔  
-- Estilização dos cards ✔  
+- Estilização dos cards ✔
 
 ---
 
