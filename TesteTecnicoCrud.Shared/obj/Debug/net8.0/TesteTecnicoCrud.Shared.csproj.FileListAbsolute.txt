@@ -1,0 +1,11 @@
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\bin\Debug\net8.0\TesteTecnicoCrud.Shared.dll
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\bin\Debug\net8.0\TesteTecnicoCrud.Shared.deps.json
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\bin\Debug\net8.0\TesteTecnicoCrud.Shared.pdb
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\TesteTecnicoCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\TesteTecnicoCrud.Shared.AssemblyInfoInputs.cache
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\TesteTecnicoCrud.Shared.AssemblyInfo.cs
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\TesteTecnicoCrud.Shared.csproj.CoreCompileInputs.cache
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\TesteTecnicoCrud.Shared.dll
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\refint\TesteTecnicoCrud.Shared.dll
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\TesteTecnicoCrud.Shared.pdb
+D:\PESSOAL\LUCAS\BTG Pactual\Projeto\TesteTecnicoCrud\TesteTecnicoCrud.Shared\obj\Debug\net8.0\ref\TesteTecnicoCrud.Shared.dll
